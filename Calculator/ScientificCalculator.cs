@@ -4,12 +4,7 @@ namespace Calculator
 {
     public class ScientificCalculator
     {
-        /// <summary>
-        /// adds two numbers 
-        /// </summary>
-        /// <param name="a">integer value </param> 
-        /// <param name="b">integer value</param>
-        /// <returns> returns integer value ie sum of a and b</returns>
+     
         public int Add(int a, int b)
         {
             return a + b;

@@ -15,7 +15,7 @@ namespace CalculatorUnitTest
         [TestMethod]
         public void SubtractionTest()
         {
-            Assert.AreEqual(-1, calc.Subtraction(3, 4));
+            Assert.AreEqual(8, calc.Subtraction(12, 4));
         }
         [TestMethod]
         public void MultiplyTest()
@@ -30,7 +30,7 @@ namespace CalculatorUnitTest
         [TestMethod]
         public void Percentile()
         {
-            Assert.AreEqual(33, calc.Percentile(33, 100));
+            Assert.AreEqual(78, calc.Percentile(78, 100));
         }
     }
 }

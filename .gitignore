@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Calculator/v15
+/Calculator/bin/Debug/netstandard2.0
+/Calculator/obj

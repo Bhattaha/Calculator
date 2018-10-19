@@ -7,11 +7,11 @@ namespace Calculator
      
         public int Add(int a, int b)
         {
-            return a + b;
+            return a+b;
         }
         public int Multiply(int a, int b)
         {
-            return a * b;
+            return b*a;
         }
         public int Subtraction(int a, int b)
         {
